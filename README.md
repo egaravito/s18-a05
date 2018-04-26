@@ -23,8 +23,8 @@ Write code to answer the following questions in files called `q1.py`,..., `q6.py
 
 4. Among those types of crime for which there are at least 1000 incidents, which type is most likely to result in arrest?
 
-    Hint: Create a boolean series whose index is crime type and value is whether the count is at least 1000. Use that to subset your answer to 4 and then sort.
+    Hint: Create a boolean series whose index is crime type and value is whether the count is at least 1000. Use that to subset your answer to 3 and then sort.
 
-5. What is the number of the community area with the most homicides in 2017? How many were there? What is it's name? (You can find a mapping of community area numbers to names online.)
+5. What is the number of the community area with the most homicides in 2017? How many were there? What is the community area's name? (You can find a mapping of community area numbers to names online.)
 
 6. Create a boolean series indicating whether each crime involved a weapon. Then calculate the percentage of crimes involving a weapon. Hint: Look for 'WEAPON' the Description column, but be careful because some descriptions contain 'NO WEAPON'.
