@@ -6,7 +6,7 @@ In this assignment you will use the pandas library to explore crime data from th
 
 First you'll need to download the dataset. Visit the [data portal page](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data). The full dataset is very large so we will just work with the year 2017. To subset it click on Filter and set ["Year is 2017"](filter.png). Download the data as a CSV by clicking "Export" > "CSV" and save it to your assignment directory. It should be about 61mb and 266k rows (use `ls -oh` and `wc -l` at the command line to quickly check).
 
-Write code to answer the following questions in files called `q1.py`,..., `q6.py`. Put the answers to all the questions in a text file called `ANSWERS.txt`. I don't recommend committing the CSV file to your git repository because of the filesize.
+Write code to answer the following questions in files called `q1.py`,..., `q6.py`. Each script should print the answer or something close to it (for example the last problem involves looking up community area names online so your script need not print the name). Put the full answers to all the questions in a text file called `ANSWERS.txt`. I don't recommend committing the CSV file to your git repository because of the filesize.
 
 # Exercises
 
