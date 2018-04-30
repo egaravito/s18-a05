@@ -27,4 +27,4 @@ Write code to answer the following questions in files called `q1.py`,..., `q6.py
 
 5. What is the number of the community area with the most homicides in 2017? How many were there? What is the community area's name? (You can find a mapping of community area numbers to names online.)
 
-6. Create a boolean series indicating whether each crime involved a weapon. Then calculate the percentage of crimes involving a weapon. Hint: Look for 'WEAPON' the Description column, but be careful because some descriptions contain 'NO WEAPON'.
+6. Create a boolean series indicating whether each crime involved a weapon. Then calculate the percentage of crimes involving a weapon. Hint: Look for descriptions containing words like 'WEAPON', 'GUN', and 'ARM'; but be careful because some descriptions contain 'NO WEAPON'.
