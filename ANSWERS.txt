@@ -1,0 +1,29 @@
+Q1. There are  266958  crimes in 2017.
+Q1. The crime rate perf 1000 capita is:  97.57236842105263
+
+Q2. The 3 most common types of crime are:  
+THEFT              64217
+BATTERY            49199
+CRIMINAL DAMAGE    29026
+
+Q2. The 3 least common types of crime are:  
+PUBLIC INDECENCY                    10
+HUMAN TRAFFICKING                    8
+NON-CRIMINAL (SUBJECT SPECIFIED)     2
+
+
+Q3. The type of crimes that are most likely to result in arrest are: 
+PROSTITUTION            1.0
+PUBLIC INDECENCY        1.0
+GAMBLING                1.0
+LIQUOR LAW VIOLATION    1.0
+
+Q4. The type of crime with more than 1000 incidents that is most likely to result in arrests is: 
+           Total crimes  Total arrests  Probability
+NARCOTICS         11570          11564     0.999481
+
+Q5. The area with the most homicides in 2017 is 25
+Q5. This area has  81 homicides in 2017
+Q5. The name of this community area is Austin
+
+Q6. The percentage of crimes that use weapons is:  7.517 %
